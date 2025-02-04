@@ -1,39 +1,4 @@
-{
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "source": [
-        "## **Academic Honesty**\n",
-        "This assignment must be done individually and independently. You must implement the whole assignment by yourself. Academic dishonesty is not tolerated.\n",
-        "\n",
-        "## **Requirements**\n",
-        "\n",
-        "1.   When you work on this assignment, you should make a copy of this notebook in Google Colab. This can be done using the option `File > Save a copy in Drive` in Google Colab.\n",
-        "2.   You should fill in your answer for each task inside the code block right under the task.\n",
-        "3.   You should only insert your code into the designated code blocks, as mentioned above. Other than that, you shouldn't change anything else in the notebook.\n",
-        "\n",
-        "\n",
-        "4.   You may not use any other imports to solve the tasks. In other words, you shouldn't use `import` in any designated code blocks for the tasks.\n",
-        "5.   Even if you can only partially solve a task, you should include your code in the code block, which allows us to consider partial credit.\n",
-        "6.   However, your code should not raise errors. Any code raising errors will not get partial credit.\n",
-        "7.   HotelCustomersDataset.xlsx is the files that  will be used in the assigment1.\n",
-        "8.   To submit your assignment, download your Colab into a .ipynb file. This can be done using the option `Download > Download .ipynb` in Google Colab.\n",
-        "9.   Submit the downloaded .ipynb file in Canvas.\n"
-      ],
-      "metadata": {
-        "id": "uIyu85IXimoF"
-      },
-      "id": "uIyu85IXimoF"
-    },
-    {
-      "cell_type": "code",
-      "execution_count": null,
-      "id": "d15eec40",
-      "metadata": {
-        "id": "d15eec40"
-      },
-      "outputs": [],
-      "source": [
+
         "import pandas as pd\n",
         "import numpy as np\n",
         "\n",
